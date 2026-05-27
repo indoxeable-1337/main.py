@@ -1,17 +1,17 @@
-# 💻 root@indoxeable-1337:~# initialization --success
+# 💻 root@indoxeable-1337:~# initialization --danger
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=indoxeable-1337&color=00ff00&style=flat-square&label=SYSTEM_VISITS" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=indoxeable-1337&color=ff0000&style=flat-square&label=SYSTEM_VISITS" alt="Visitas" />
 </p>
 
-```💡 System status: Active and optimization-focused.```
+```🎯 System status: Operational. High-performance scripting active.```
 
 ---
 
 ### 👤 $ whoami
 
 ```bash
-> Nombre: indoxeable-1337
+> Usuario: indoxeable-1337
 > Ubicación: Argentina
 $ fetching active connections...
 $ pending connections (loading soon...):
