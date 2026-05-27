@@ -23,7 +23,7 @@
 
 <p align="left">
 
-  <a href="https://discord.com/users/TU_ID_DE_DISCORD" target="_blank">
+  <a href="https://discord.com/users/1276647043854766111" target="_blank">
     <img src="https://img.shields.io/badge/[_DISCORD_]-FF0000?style=for-the-badge&logo=discord&logoColor=black" alt="Discord" />
   </a>
 </p>
